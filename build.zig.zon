@@ -1,0 +1,10 @@
+.{
+    .name = "dotziggy",
+    .version = "0.0.1",
+    .dependencies = .{
+        .simargs = .{
+            .url = "https://github.com/jiacai2050/simargs/archive/b386cddfe007eca720352e42a631b25bf43dc4d8.tar.gz",
+            .hash = "1220e4f65941ba6afb0d6ec28147b924f26b18ac21d79913d44d49e34da07163c9aa",
+        },
+    },
+}
