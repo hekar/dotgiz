@@ -1,4 +1,4 @@
-# diggy
+# dotgiz
 
 Simple Dotfile management.
 
